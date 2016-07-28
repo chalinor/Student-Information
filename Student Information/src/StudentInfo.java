@@ -12,7 +12,7 @@ public class StudentInfo {
 	}
 	
 	public void displayInfo(){
-		System.out.println("Student Name: "+studentName+"\n Student ID: "+studentID+ "Phone Number: ");
+		System.out.println("Student Name: "+studentName+"\n Student ID: "+studentID+ "\nPhone Number: "+studentPhone);
 	}
 	
 }
